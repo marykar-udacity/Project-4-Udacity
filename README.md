@@ -16,7 +16,7 @@ Sklearn
 Juypter
 
 # Project Motivations
-As a French non professional developer who is trying to become a Data Scientist, I was interested to look at the Stack Overflow Survey data from 2017 and see what influence my own background and culture had on prefered ways of learning.
+As a French non professional developer who is trying to become a Data Scientist, I was interested to look at the Stack Overflow Survey data from 2017 and see what influence my own background and culture had on prefered ways of learning: https://karim-mary15.medium.com/3-things-that-will-make-you-see-learning-code-differently-557c5f3db44d
 
 
 # File Descriptions
