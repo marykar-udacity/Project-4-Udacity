@@ -20,7 +20,7 @@ As a French non professional developer who is trying to become a Data Scientist,
 
 
 # File Descriptions
-Project 4 - Using Data Science to Gain Insights from Stack Overflow Survey Data.ipynb - This is the Jupyter Notebook storing my code and markdown related to the project.
+Project 4 Karim Notebook - Using Data Science to Gain Insights from Stack Overflow Survey Data.ipynb - This is the Jupyter Notebook storing my code and markdown related to the project.
 README.md - This file.
 How to Interact with This Project
 The best way to interact with this project is to open up the Notebook and browse through the code. The Notebook was saved with all code run so you can just look at the output (and my commentary) without having to re-run everything yourself. Feel free to edit the code and re-run if desired.
